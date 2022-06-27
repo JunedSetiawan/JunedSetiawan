@@ -1,4 +1,4 @@
-### Hi I'm a Beginner :octocat:
+### Hi I'm a Beginner Juned | Web Developer (EntryLevel) :octocat:
 <br/>
 
 - :running:  I’m a student 19 Y.O
