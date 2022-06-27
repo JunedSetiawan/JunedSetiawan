@@ -1,4 +1,4 @@
-### Hi I'm a Beginner Juned | Web Developer (EntryLevel) :octocat:
+### Hi.. My Name is Juned Setiawan S | I'm a Web Developer (EntryLevel) :octocat:
 <br/>
 
 - :running:  I’m a student 19 Y.O
