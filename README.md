@@ -7,5 +7,5 @@
 
 - :trollface:  Fun fact: I'm Lazy 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JunedSetiawan&theme=react-dark)](https://github.com/JunedSetiawan)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JunedSetiawan&theme=redical)](https://github.com/JunedSetiawan)
 
