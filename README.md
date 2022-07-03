@@ -14,7 +14,7 @@
 
 <table>
    <tr>
-    <td colspan="2" align="center"><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&langs_count=6&hide=css&exclude_repo=cem_clipnet&layout=compact&theme=radical"></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&langs_count=6&hide=html&exclude_repo=cem_clipnet&layout=compact&theme=radical"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api?username=JunedSetiawan&count_private=true&show_icons=true&hide=issues&theme=radical"/></a></td>
