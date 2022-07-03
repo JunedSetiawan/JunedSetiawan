@@ -14,7 +14,7 @@
 
 | * | * |
 |  :---: | :---:  |     
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunedSetiawan&count_private=true&show_icons=true&hide=issues&theme=radical)](https://github.com/JunedSetiawan) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JunedSetiawan&theme=radical)](https://github.com/JunedSetiawan) | <td colspan=3><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&exclude_repo=cem_clipnet&layout=compact&theme=radical"/>|
+| <img src="https://github-readme-stats.vercel.app/api?username=JunedSetiawan&count_private=true&show_icons=true&hide=issues&theme=radical"/> | <img src="http://github-readme-streak-stats.herokuapp.com?user=JunedSetiawan&theme=radical"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&exclude_repo=cem_clipnet&layout=compact&theme=radical"/>|
 
 
 ## Contact me
