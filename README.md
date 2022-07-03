@@ -12,10 +12,15 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JunedSetiawan&theme=redical)](https://github.com/JunedSetiawan)
 
-| * | * |
-|  :---: | :---:  |     
-| <img src="https://github-readme-stats.vercel.app/api?username=JunedSetiawan&count_private=true&show_icons=true&hide=issues&theme=radical"/> | <img src="http://github-readme-streak-stats.herokuapp.com?user=JunedSetiawan&theme=radical"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&exclude_repo=cem_clipnet&layout=compact&theme=radical"/>|
-
+<table>
+   <tr>
+    <td colspan="2" align="center"><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&langs_count=6&hide=css&exclude_repo=cem_clipnet&layout=compact&theme=radical"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api?username=JunedSetiawan&count_private=true&show_icons=true&hide=issues&theme=radical"/></a></td>
+    <td><a href="https://github.com/JunedSetiawan"><img src="http://github-readme-streak-stats.herokuapp.com?user=JunedSetiawan&theme=radical"/></a></td>
+  </tr>
+</table>
 
 ## Contact me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282365265904)
