@@ -1,4 +1,4 @@
-### Hi.. My Name is Juned Setiawan S | I'm a Web Developer (EntryLevel) :octocat:
+### Hi.. My Name is Juned Setiawan S <br/> I'm a Web Developer (EntryLevel) 3122510407 :octocat:
 
 ## Activity
 - Currently learning Node JS & Laravel
