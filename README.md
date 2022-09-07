@@ -10,15 +10,13 @@
 </p>
 <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JunedSetiawan&theme=redical)](https://github.com/JunedSetiawan)
-
 <table>
-   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&langs_count=6&hide=html&exclude_repo=cem_clipnet&layout=compact&theme=radical"></a></td>
-  </tr>
-  <tr>
+<tr>
     <td><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api?username=JunedSetiawan&count_private=true&show_icons=true&hide=stars,contribs&theme=radical"/></a></td>
     <td><a href="https://github.com/JunedSetiawan"><img src="http://github-readme-streak-stats.herokuapp.com?user=JunedSetiawan&theme=radical"/></a></td>
+  </tr>
+   <tr>
+    <td colspan="2" align="center"><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedSetiawan&langs_count=6&hide=html&exclude_repo=cem_clipnet&layout=compact&theme=radical"></a></td>
   </tr>
 </table>
 
