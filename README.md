@@ -1,4 +1,4 @@
-### // Juned Setiawan S \\\ <br/> I'm a Web Developer (EntryLevel) :octocat:
+### Juned Setiawan S <br/> I'm a Web Developer (EntryLevel) :octocat:
 
 ## Activity
 - Currently learning Node JS & Laravel
