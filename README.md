@@ -1,4 +1,4 @@
-### Juned Setiawan S <br/> I'm a Web Developer (EntryLevel) :octocat:
+### I'm a Web | Laravel Developer (EntryLevel) :octocat:
 
 ## Activity
 Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
