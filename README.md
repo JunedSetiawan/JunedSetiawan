@@ -6,7 +6,7 @@ Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs
 
 <p align="center">
     <a href="https://github.com/JunedSetiawan"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=JunedSetiawan" alt="visitors"/>   
+
 </p>
 <br/>
 
