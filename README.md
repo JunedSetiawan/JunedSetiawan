@@ -8,8 +8,8 @@ Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs
     <a href="https://github.com/JunedSetiawan"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a>
 
 </p>
+<details>
 <br/>
-
 <table>
 <tr>
     <td><a href="https://github.com/JunedSetiawan"><img src="https://github-readme-stats.vercel.app/api?username=JunedSetiawan&count_private=true&show_icons=true&hide=stars,contribs&theme=radical"/></a></td>
@@ -21,6 +21,7 @@ Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs
 </table>
 
 [![@junedsetiawan's Holopin board](https://holopin.io/api/user/board?user=junedsetiawan)](https://holopin.io/@junedsetiawan)
+</details>
 
 ## Contact me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282365265904)
