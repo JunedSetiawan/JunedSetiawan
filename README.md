@@ -1,4 +1,4 @@
-### I'm a Web | Laravel Developer (EntryLevel) :octocat:
+### I'm a Web Laravel Developer (EntryLevel) :octocat:
 
 ## Activity
 Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)  ![Typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_light_prisma.svg" width="64" height="64">
