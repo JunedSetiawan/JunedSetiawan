@@ -5,7 +5,7 @@ I'm a Web Full-Stack Developer :octocat:
 </p>
 
 ## Activity
-Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_light_prisma.svg" width="64" height="64"> ![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg) ![postgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+Currently learning : <br/> <img src="https://github.com/gilbarbara/logos/blob/main/logos/nextjs-icon.svg" width="64" height="64"> ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_light_prisma.svg" width="64" height="64"> ![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg) ![postgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) <img src="https://github.com/gilbarbara/logos/blob/main/logos/nextjs-icon.svg" width="64" height="64">
 <br/>
 
 <p align="center">
