@@ -1,4 +1,8 @@
-### I'm a Web Full-Stack Developer :octocat:
+<a href="https://s.id/standwithpalestine"><img alt="I stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-support.svg" width="100%" /></a>
+
+<p align="center">
+I'm a Web Full-Stack Developer :octocat:
+</p>
 
 ## Activity
 Currently learning : <br/> ![React Js](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_light_prisma.svg" width="64" height="64"> ![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
