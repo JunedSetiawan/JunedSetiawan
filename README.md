@@ -24,7 +24,7 @@ Currently learning : <br/> <img src="https://github.com/gilbarbara/logos/blob/ma
   </tr>
 </table>
 
-[![@junedsetiawan's Holopin board](https://holopin.io/api/user/board?user=junedsetiawan)](https://holopin.io/@junedsetiawan)
+[![An image of @junedsetiawan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/junedsetiawan)](https://holopin.io/@junedsetiawan)
 </details>
 
 ## Contact me
