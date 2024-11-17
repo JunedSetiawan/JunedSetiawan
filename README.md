@@ -12,7 +12,6 @@ Currently learning : <br/> <img src="https://github.com/gilbarbara/logos/blob/ma
     <a href="https://github.com/JunedSetiawan"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a>
 
 </p>
-<details>
 <br/>
 <table>
 <tr>
@@ -25,7 +24,7 @@ Currently learning : <br/> <img src="https://github.com/gilbarbara/logos/blob/ma
 </table>
 
 [![An image of @junedsetiawan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/junedsetiawan)](https://holopin.io/@junedsetiawan)
-</details>
+
 
 ## Contact me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282365265904)
